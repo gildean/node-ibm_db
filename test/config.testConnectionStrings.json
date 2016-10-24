@@ -1,8 +1,8 @@
 { "DRIVER" : "{DB2 ODBC Driver}",
   "DATABASE" : "SAMPLE",
-  "UID" : "db2inst1",
-  "PWD" : "qawsedrf123",
-  "HOSTNAME" : "192.168.99.100",
-  "PORT" : 50000,
+  "UID" : "newton",
+  "PWD" : "db2admin",
+  "HOSTNAME" : "hotel.torolab.ibm.com",
+  "PORT" : 21169,
   "PROTOCOL" : "TCPIP" 
 }
